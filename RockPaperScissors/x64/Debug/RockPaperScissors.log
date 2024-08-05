@@ -1,0 +1,3 @@
+﻿  RockPaperScissors.cpp
+C:\Users\imsup\Desktop\C++\RockPaperScissors\GameController.h(74): warning C4715: 'GameController::GameState': not all control paths return a value
+  RockPaperScissors.vcxproj -> C:\Users\imsup\Desktop\C++\RockPaperScissors\x64\Debug\RockPaperScissors.exe
